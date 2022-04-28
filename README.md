@@ -1,2 +1,5 @@
-# automata-trade-strategy
-Automata Trade Strategy
+# Automata Trade Strategy
+
+## Packaging
+`python3 -m build`
+
