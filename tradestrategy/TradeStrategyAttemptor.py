@@ -2,7 +2,7 @@ from core.oracle.Prediction import Prediction
 from core.position.Position import Position
 
 
-class TradeStrategyProcessor:
+class TradeStrategyAttemptor:
 
-    def perform_trade(self, position: Position, prediction: Prediction):
+    def trade(self, position: Position, prediction: Prediction):
         pass
